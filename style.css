@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    display: grid;
+    place-items: center;
+}
+
+.null {
+    color: black;
+}
